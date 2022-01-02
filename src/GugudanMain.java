@@ -15,6 +15,5 @@ public class GugudanMain {
 		int second = Integer.parseInt(splitedValue[1]);
 		
 		GugudanMethod.calculate(first, second);
-		
 	}
 }
